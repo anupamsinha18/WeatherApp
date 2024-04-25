@@ -5,7 +5,7 @@ const Footer = () => {
     <div>
     <div class="footer-padding"></div>
   <div class="footer">
-    <p>Made with ❤️ by Khalid Hussain</p>
+    <p>Made with ❤️ by Anupam Sinha</p>
   </div>
       
     </div>
